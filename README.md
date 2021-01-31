@@ -1,5 +1,5 @@
 # scanner
-Software to automate the scanner task for my brother DS620
+Software to automate the scanner task for my Brother DS620
 
 # Description
 The main idea of this script is to automate the scanner task by providing an infinite loop that try to scan images until you break the loop by pressing the CTRL+C keys, currently it's intended to work with my Brother DS620 scanner using the follow external programs:
